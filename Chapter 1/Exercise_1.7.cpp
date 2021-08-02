@@ -1,0 +1,2 @@
+// try to complie this
+/* // /* */ */

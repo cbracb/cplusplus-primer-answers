@@ -1,0 +1,1 @@
+// it will print-out nth amount of the number you've input
