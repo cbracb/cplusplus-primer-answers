@@ -12,6 +12,5 @@ int main(){
 			mainItem = newItem;
 		}
 	}
-
 	return 0;
 }
